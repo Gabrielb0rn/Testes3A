@@ -1,7 +1,7 @@
 {
   "name": "webapi-crud-backend-with-nodejs-postgres",
   "version": "1.0.0",
-  "description": "",
+  "description": ".env (informações) A\r ```\r PORT = '3000'\r USER_NAME = 'postgres'\r HOST_NAME = 'localhost'\r DB_NAME = 'tests'\r DB_PASSWORD = 'admin123'\r DB_DIALECT = 'postgres'\r PORT_NUMBER = '5432'\r ```",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
@@ -16,5 +16,14 @@
     "express": "^4.21.2",
     "nodemon": "^3.1.10",
     "pg": "^8.15.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabrielb0rn/Testes3A.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gabrielb0rn/Testes3A/issues"
+  },
+  "homepage": "https://github.com/Gabrielb0rn/Testes3A#readme"
 }
