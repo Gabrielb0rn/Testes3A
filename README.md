@@ -1,4 +1,4 @@
-.env (informações)
+.env (informações) A
 ```
 PORT = '3000'
 USER_NAME = 'postgres'
